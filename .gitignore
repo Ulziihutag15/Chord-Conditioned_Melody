@@ -1,0 +1,13 @@
+Generated_MIDI_Melody/dataset/commu_midi/
+Generated_MIDI_Melody/dataset/commu_midi/**
+
+Generated_MIDI_Melody/dataset/**/augmented/
+Generated_MIDI_Melody/dataset/**/augmented_tmp/
+Generated_MIDI_Melody/dataset/**/npy_tmp/
+Generated_MIDI_Melody/dataset/**/output_npy/
+
+Generated_MIDI_Melody/working_directory/
+Generated_MIDI_Melody/working_direcoty/
+Generated_MIDI_Melody/.venv/
+Generated_MIDI_Melody/__pycache__/
+Generated_MIDI_Melody/**/*.pyc
